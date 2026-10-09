@@ -11,3 +11,6 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 URL: https://github.com/simplymayank/regexcite
 BugReports: https://github.com/simplymayank/regexcite/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
